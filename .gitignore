@@ -1,0 +1,10 @@
+/.git
+/.vs
+/x64
+/course_prj/x64
+/course_prj/course_prj.vcxproj.user
+/course_prj/course_prj.vcxproj.filters
+/course_prj/newton_iterations.txt
+/Debug
+/Release
+    
